@@ -1,0 +1,5 @@
+node_modules/
+Adworks.app-frontend/
+yarn.lock
+package-lock.json
+yarn-error.log
